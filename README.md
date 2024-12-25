@@ -1,7 +1,7 @@
 # 👨‍💻 Pedro Henrique
 **`Desenvolvedor Back-End`**
 
-Me chamo Pedro Henrique, tenho 23 anos e sou natural de Goiânia, Goiás. Sou  recém formado em análise e desenvolvimento de sistemas pela Uni-Goiás. Sou apaixonado por tecnologia e busco sempre me aprimorar para solucionar problemas e novos desafios! Estou no mercado de trabalho há um ano, trabalhando principalmente com .Net
+Eu me chamo Pedro Henrique, tenho 23 anos e sou natural de Goiânia, Goiás. Sou  recém formado em Análise e Desenvolvimento de Sistemas pela Uni-Goiás. Sou apaixonado por tecnologia, busco sempre me aprimorar para solucionar problemas e para enfrentar novos desafios! Estou no mercado de trabalho há um ano, trabalhando principalmente com .Net...
 
 ---
 
